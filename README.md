@@ -6,7 +6,7 @@
 
 ---
 
-⭐ **Follow me on ANY platform to follow me on EVERY platform!**
+⭐ **Follow me on ANY platform to follow me on EVERY platform!** 👇
 
 # Number One Fan
 
