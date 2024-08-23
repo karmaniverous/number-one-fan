@@ -26,6 +26,7 @@ Probably don't just want to follow without some kind of confirmation because a p
 
 ## Extras
 
+* App watches who you follow on ANY platform and follows that person for you on EVERY platform.
 * You could watch a set of profiles & follow whover they follow.
 * You could automatically follow new platforms for a given target.
 
