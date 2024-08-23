@@ -4,6 +4,8 @@
 > 
 > Think I should build it? **STAR THE REPO!**
 
+---
+
 ⭐ **Follow me on ANY platform to follow me on EVERY platform!**
 
 # Number One Fan
