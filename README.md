@@ -1,4 +1,4 @@
-> THIS REPO IS JUST AN IDEA! If you think I should build it, star the repo!
+> **JUST TESTING AN IDEA!**  Want to kick it around with me? [Start a discussion!](https://github.com/karmaniverous/number-one-fan/discussions) Think I should build i? **Star the repo!**
 
 # Number One Fan
 
@@ -28,3 +28,7 @@ Probably don't just want to follow without some kind of confirmation because a p
 
 * You could watch a set of profiles & follow whover they follow.
 * You could automatically follow new platforms for a given target.
+
+---
+
+Built with ❤️ on Bali! Find more great tools & templates on [my GitHub Profile](https://github.com/karmaniverous).
