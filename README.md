@@ -1,5 +1,7 @@
 > **JUST TESTING AN IDEA!**  Want to kick it around with me? [Start a discussion!](https://github.com/karmaniverous/number-one-fan/discussions) Think I should build i? **Star the repo!**
 
+⭐ **Follow me on ANY platform to follow me on EVERY platform!**
+
 # Number One Fan
 
 The idea is to make it easy to follow somebody across all social media platforms. Could be expressed as a web or mobile app. Key features:
