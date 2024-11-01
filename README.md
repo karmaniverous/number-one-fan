@@ -38,7 +38,9 @@ Probably don't just want to follow without some kind of confirmation because a p
 - You could watch a set of profiles & follow whover they follow.
 - You could automatically follow new platforms for a given target.
 
-[![Twitter](./assets/2024-11-01-twitter.png)](https://x.com/karmaniverous/status/1852144302450970859)
+## Discussions In The Wild
+
+- [2024-11-01 X thread](https://x.com/karmaniverous/status/1852182796229615775)
 
 ---
 
