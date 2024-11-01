@@ -38,6 +38,8 @@ Probably don't just want to follow without some kind of confirmation because a p
 * You could watch a set of profiles & follow whover they follow.
 * You could automatically follow new platforms for a given target.
 
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Here&#39;s what I had in mind:<br><br>1. You create an account on the app &amp; connect your social accounts, granting permission to see who you follow and to follow on your behalf.<br><br>2. When you follow me, the app responds to the event by recursively parsing my social profile for references to…</p>&mdash; karmaniverous (@karmaniverous) <a href="https://twitter.com/karmaniverous/status/1852144302450970859?ref_src=twsrc%5Etfw">November 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ---
 
 Built with ❤️ on Bali! Find more great tools & templates on [my GitHub Profile](https://github.com/karmaniverous).
